@@ -30,6 +30,9 @@ PRAKTIKUM STATE 2
 
 - Tujuan dari metode di langkah 3 adalah untuk mempermudah perhitungan dan penampilan status progres dari tugas yang ada pada Plan. Dengan menambahkan dua metode ini, kita dapat dengan mudah menampilkan jumlah tugas yang selesai dan progres keseluruhan tanpa harus menghitungnya berulang-ulang di tempat lain dalam kode. Hal ini membuat logika aplikasi menjadi lebih terstruktur dan efisien.
 
+![Screenshot 2024-11-11 104155](https://github.com/user-attachments/assets/83947b1f-907b-4804-8d4e-5439503f1ffa)
+
+
 -------------------------------
 PRAKTIKUM STATE 3
 -------------------------------
